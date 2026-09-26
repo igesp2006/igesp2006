@@ -6,6 +6,17 @@
 
 <br>
 
+<!-- Main Tech Stack -->
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,arduino,esp32,flask,numpy&theme=dark" height="42" alt="Python C C++ Git GitHub VS Code Arduino ESP32 Flask NumPy">
+  <img src="https://raw.githubusercontent.com/platformio/platformio-vscode-ide/develop/assets/images/platformio-mini-logo.svg" height="42" alt="PlatformIO">
+  <img src="https://img.shields.io/badge/CustomTkinter-1B1825?style=flat-square&logo=python&logoColor=white" height="28" alt="CustomTkinter">
+  <img src="https://img.shields.io/badge/Tkinter-1B1825?style=flat-square&logo=python&logoColor=white" height="28" alt="Tkinter">
+  <img src="https://img.shields.io/badge/PyInstaller-1B1825?style=flat-square&logo=python&logoColor=white" height="28" alt="PyInstaller">
+</p>
+
+<br>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+%7C+C+%7C+C%2B%2B;Software+%2B+Hardware;Building+things%2C+breaking+things%2C+learning+from+both." alt="Typing SVG">
 
 </div>
@@ -58,8 +69,6 @@ I like taking an idea, turning it into something that actually works, and then g
 
 ### Embedded & Hardware
 
-### Embedded & Hardware
-
 <p align="left">
 
   <img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="48" alt="Arduino">
@@ -69,6 +78,8 @@ I like taking an idea, turning it into something that actually works, and then g
   <img src="https://skillicons.dev/icons?i=esp32&theme=dark" width="48" alt="ESP32">
 
 </p>
+
+---
 
 # Projects
 
