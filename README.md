@@ -59,7 +59,13 @@ I like taking an idea, turning it into something that actually works, and then g
 ### Embedded & Hardware
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,platformio,esp32&theme=dark" alt="Arduino PlatformIO ESP32">
+
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="48" alt="Arduino">
+
+  <img src="https://raw.githubusercontent.com/platformio/platformio-core/develop/platformio/assets/logo/platformio-logo.png" width="48" alt="PlatformIO">
+
+  <img src="https://skillicons.dev/icons?i=esp32&theme=dark" width="48" alt="ESP32">
+
 </p>
 
 ---
