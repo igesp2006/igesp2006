@@ -2,7 +2,7 @@
 
 # Hey, I'm Garvit 👋
 
-### B.Tech CSE Student · Builder · Learning by Building
+### B.Tech CSE Student · Learning by Building
 
 <br>
 
@@ -18,12 +18,12 @@ I'm a **B.Tech CSE student** interested in the space between software and hardwa
 
 I like taking an idea, turning it into something that actually works, and then gradually cleaning up the messy first version into a proper project.
 
-- 🐍 Mainly working with **Python**
-- ⚙️ Learning **C, C++ and better software architecture**
-- 🔧 Interested in **embedded systems and hardware**
-- 🖥️ Building desktop tools and hardware-connected projects
-- 🌱 Currently focused on writing cleaner, more maintainable code
-- 🛠️ Learning by building instead of just collecting tutorials
+- Mainly working with **Python**
+- Learning **C, C++ and better software architecture**
+- Interested in **embedded systems and hardware**
+- Building desktop tools and hardware-connected projects
+- Currently focused on writing cleaner, more maintainable code
+- Learning by building instead of just collecting tutorials
 
 ---
 
@@ -38,7 +38,7 @@ I like taking an idea, turning it into something that actually works, and then g
 ### Tools & Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git GitHub VS Code Linux">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code">
 </p>
 
 ### Frameworks & Libraries
