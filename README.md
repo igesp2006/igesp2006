@@ -1,158 +1,122 @@
-::: {align="center"}
+<div align="center">
 
-Hi, I'm Garvit 👋
+# Hey, I'm Garvit 👋
 
-CSE Student · Builder · Learning by Building
+### B.Tech CSE Student · Builder · Learning by Building
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Python+%7C+C+%7C+C%2B%2B;Software+%2B+Hardware;Building+things%2C+breaking+things%2C+learning+from+both." alt="Typing animation" />{=html}
-:::
+<br>
 
-About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+%7C+C+%7C+C%2B%2B;Software+%2B+Hardware;Building+things%2C+breaking+things%2C+learning+from+both." alt="Typing SVG">
 
-I'm a B.Tech CSE student interested in the space between software
-and hardware.
+</div>
 
-I like taking an idea, turning it into something that actually works,
-and then gradually cleaning up the messy first version into a proper
-project.
+---
 
-🐍 Mainly working with Python
+## About Me
 
-⚙️ Learning C, C++ and better software architecture
+I'm a **B.Tech CSE student** interested in the space between software and hardware.
 
-🔧 Interested in embedded systems and hardware
+I like taking an idea, turning it into something that actually works, and then gradually cleaning up the messy first version into a proper project.
 
-🖥️ Building desktop tools and hardware-connected projects
+- 🐍 Mainly working with **Python**
+- ⚙️ Learning **C, C++ and better software architecture**
+- 🔧 Interested in **embedded systems and hardware**
+- 🖥️ Building desktop tools and hardware-connected projects
+- 🌱 Currently focused on writing cleaner, more maintainable code
+- 🛠️ Learning by building instead of just collecting tutorials
 
-🌱 Currently focused on writing cleaner, more maintainable code
+---
 
-🛠️ Learning by building instead of just collecting tutorials
+## Tech Stack
 
-Tech Stack
+### Languages
 
-Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" alt="Python C C++">
+</p>
 
-<p>
+### Tools & Development
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" alt="Python C C++" />{=html}
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git GitHub VS Code Linux">
+</p>
+
+### Frameworks & Libraries
+
+<p align="left">
+
+  <img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask">
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/CustomTkinter-1B1825?style=flat-square&logo=python&logoColor=white" alt="CustomTkinter">
+  <img src="https://img.shields.io/badge/Tkinter-1B1825?style=flat-square&logo=python&logoColor=white" alt="Tkinter">
+  <img src="https://img.shields.io/badge/NumPy-1B1825?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/PyInstaller-1B1825?style=flat-square&logo=python&logoColor=white" alt="PyInstaller">
 
 </p>
 
-Tools & Development
+### Embedded & Hardware
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git GitHub VS Code Linux" />{=html}
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,platformio,esp32&theme=dark" alt="Arduino PlatformIO ESP32">
 </p>
 
-Frameworks & Libraries
+---
 
-<p>
+# Projects
 
-<img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" />{=html}
-<br>{=html} <sub>{=html}CustomTkinter · Tkinter · NumPy ·
-PyInstaller</sub>{=html}
+## 🎮 ETS2 Force Feedback
 
-</p>
+A Python-based Force Feedback system built around **Euro Truck Simulator 2 telemetry**.
 
-Embedded & Hardware
+The project connects game telemetry with physical controller feedback to make driving events more noticeable through the wheel/controller.
 
-<p>
+### Features
 
-<img src="https://skillicons.dev/icons?i=arduino,platformio,esp32&theme=dark" alt="Arduino PlatformIO ESP32" />{=html}
+- FunBit telemetry integration
+- XInput rumble feedback
+- Redline feedback
+- Cold-start feedback
+- Configurable project structure
+- Windows release built with PyInstaller
+- Separate configuration and asset handling
 
-</p>
+### Built With
 
-Projects
+`Python` `FunBit` `XInput` `Tkinter` `CustomTkinter` `PyInstaller`
 
-🎮 ETS2 Force Feedback
+---
 
-A Python-based Force Feedback system built around Euro Truck Simulator
-2 telemetry.
+## 🖥️ FunBeat
 
-FunBit telemetry integration
+A hardware + software project built around a physical desktop control interface.
 
-XInput rumble feedback
+The system combines an **ESP32, TFT display, physical controls and a Python controller** for media, system controls and other desktop interactions.
 
-Redline / engine feedback
+The idea is simple:
 
-Cold-start feedback
+> Make the desk itself feel more interactive instead of having everything live behind a screen.
 
-Configurable project structure
+### Architecture
 
-PyInstaller-based Windows release
-
-Python · XInput · FunBit · Tkinter/CustomTkinter
-
-🖥️ FunBeat
-
-A hardware + software project designed around a physical desktop control
-interface.
-
-The system combines an ESP32, TFT display, physical controls and a
-Python controller for things like media, system controls and desktop
-interactions.
-
-The goal is to make the desk itself feel more interactive instead of
-having everything live behind a screen.
-
-Python · ESP32 · Arduino · PlatformIO · TFT · Serial Communication
-
-💡 Hardware Experiments
-
-Small electronics projects and experiments involving:
-
-Arduino / Nano
-
-ESP32
-
-LEDs and transistor switching
-
-TFT displays
-
-Physical buttons and controls
-
-Serial communication
-
-These projects are where I get to learn the parts of computing that
-don't stay inside a .py file.
-
-What I'm Learning
-
-Python
-  └── OOP / Project Architecture
-        └── Better Software Design
-              └── C / C++
-                    └── Embedded Systems
-                          └── Software ↔ Hardware
-
-GitHub
-
-::: {align="center"}
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Achiknight&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub stats" />{=html}
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achiknight&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Top languages" />{=html}
-:::
-
-Contribution Graph
-
-::: {align="center"}
-<img src="https://raw.githubusercontent.com/Achiknight/Achiknight/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />{=html}
-:::
-
-Connect
-
-::: {align="center"}
-<a href="https://github.com/Achiknight">{=html}
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />{=html}
-</a>{=html}   <a href="https://www.linkedin.com/">{=html}
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />{=html}
-</a>{=html}
-:::
-
-<br>{=html}
-
-::: {align="center"}
-<sub>{=html}Build → break → debug → understand → build
-again.</sub>{=html}
-:::
+```text
+        Physical Controls
+               │
+               ▼
+        ┌──────────────┐
+        │    ESP32     │
+        │ TFT + Input  │
+        └──────┬───────┘
+               │
+        Serial / Communication
+               │
+               ▼
+        ┌──────────────┐
+        │    Python    │
+        │   Controller │
+        └──────┬───────┘
+               │
+       ┌───────┼────────┐
+       ▼       ▼        ▼
+     Media   Server     UI
