@@ -8,7 +8,7 @@
 <!-- Main Tech Stack -->
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,git,github,vscode,arduino&theme=dark" height="42" alt="Python C C++ Git GitHub VS Code Arduino MySQL">
-  <img src="https://raw.githubusercontent.com/platformio/platformio-vscode-ide/develop/assets/images/platformio-mini-logo.svg" height="42" alt="PlatformIO">
+  <img src="https://raw.githubusercontent.com/platformio/platformio-vscode-ide/develop/assets/images/platformio-mini-logo.svg" height="62" alt="PlatformIO">
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+%7C+C+%7C+C%2B%2B;Software+%2B+Hardware;Building+things%2C+breaking+things%2C+learning+from+both." alt="Typing SVG">
@@ -37,13 +37,13 @@ PS: My old account was lost so no contribution graph from June-September :(
 
 <p align="left">
 
-  <img src="https://img.shields.io/badge/Python-1B1825?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Python-1B1825?style=flat-square&logo=python&logoColor=white" alt="Python"><br>
 
-  <img src="https://img.shields.io/badge/C-1B1825?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C-1B1825?style=flat-square&logo=c&logoColor=white" alt="C"><br>
 
-  <img src="https://img.shields.io/badge/C++-1B1825?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C++-1B1825?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"><br>
 
-  <img src="https://img.shields.io/badge/MySQL-1B1825?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MySQL-1B1825?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"><br>
 
 </p>
 
