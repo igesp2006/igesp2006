@@ -37,13 +37,10 @@ PS: My old account was lost so no contribution graph from June-September :(
 
 <p align="left">
 
-  <img src="https://img.shields.io/badge/Python-1B1825?style=flat-square&logo=python&logoColor=white" alt="Python"><br>
-
-  <img src="https://img.shields.io/badge/C-1B1825?style=flat-square&logo=c&logoColor=white" alt="C"><br>
-
-  <img src="https://img.shields.io/badge/C++-1B1825?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"><br>
-
-  <img src="https://img.shields.io/badge/MySQL-1B1825?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"><br>
+  <img src="https://img.shields.io/badge/Python-1B1825?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C-1B1825?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-1B1825?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/MySQL-1B1825?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
 
 </p>
 
