@@ -122,3 +122,11 @@ The idea is simple:
 
 `Python` `C++` `CustomTkinter` `pyserial` `PlatformIO`
 
+---
+
+##  BrewOS
+
+### >> Under Progress
+
+A personal coffee brewing tracker designed to turn everyday brewing into a data-driven learning process. The project begins with structured brew logging, recording brewing parameters, sensory observations, and tasting notes. Over time, it aims to evolve into a system that analyzes historical brewing data, discovers patterns, and provides personalized, evidence-based recommendations with transparent confidence levels. The long-term vision is to combine statistical analysis, predictive modeling, and LLM-powered explanations to help understand how brewing variables influence the final cup, one experiment at a time.
+
